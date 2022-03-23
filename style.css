@@ -1,0 +1,109 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+.orange-color{
+    color: orange;
+}
+p{
+    font-size: 20px;
+    
+    text-align: justify;
+}
+.top{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    margin: 2%;
+}
+.half-width img{
+    width: 80%;
+    margin-left: 25px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    padding: 10px 40px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500px;
+}
+.middle{
+    background-image: url(shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.final h1{
+    text-align-last: center;
+}
+.final-text p{
+    text-align: center;
+}
+.card{
+    width: 350px;
+    padding: 15px;
+   margin-left: 120px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 20px;
+}
+.card-text p{
+    font-size: 15px;
+    text-align: justify;
+}
+#card-one img{
+    width: 100%;
+    border-radius: 20px;
+}
+#card-two img{
+    width: 100%;
+    border-radius: 20px;
+}
+#card-three img{
+    width: 100%;
+}
+.last{
+    
+    width: 80%;
+    height: 150px;
+   background-origin: padding-box;
+   border-radius: 20px;
+    margin: 5%;
+    
+    offset: distance 20px;
+    padding-left: 15px;
+    box-shadow: 10px 10px 40px grey;
+}
+.last-part-one{
+    text-align: flex;
+    display: flex;
+   position: relative;
+   bottom: 0;
+}
+
+.last-part-one p{
+    text-align-last: center;
+    display: flex;
+    object-fit: scale-down;
+    position: relative;
+    bottom: 0;
+}
+ooter{
+  left: 0;
+  bottom: 5px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 15%;
+  padding-bottom: 10px;
+}
+footer p{
+    text-align: center;
+}
